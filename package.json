@@ -1,0 +1,21 @@
+{
+  "name": "threejs-boilerplate",
+  "version": "0.0.1",
+  "description": "A starting point for playing around with threejs",
+  "main": "js/index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.4.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "threejs",
+    "boilerplate"
+  ],
+  "author": "Justin McCandless",
+  "license": "MIT"
+}
